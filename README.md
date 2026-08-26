@@ -10,10 +10,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naazx/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/naazx/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/naazx/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/naazx/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/naazx/leetcode/tree/main/0001-two-sum/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/naazx/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
