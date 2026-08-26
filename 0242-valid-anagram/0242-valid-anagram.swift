@@ -1,5 +1,5 @@
 class Solution {
     func isAnagram(_ s: String, _ t: String) -> Bool {
-         s.sorted(by: <) == t.sorted(by: <)
+         s.sorted() == t.sorted()
     }
 }
