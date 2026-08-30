@@ -23,7 +23,6 @@ class Solution {
                 if sum == 0 {
                     res.append([sorted[i], sorted[left], sorted[right]])
                     
-                    // Пропуск дублікатів для вказівників
                     while left < right && sorted[left] == sorted[left + 1]{     
                         left += 1 
                     }
