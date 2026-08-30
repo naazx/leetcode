@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/naazx/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/naazx/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/naazx/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naazx/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/naazx/leetcode/tree/main/0027-remove-element/) | Easy |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/naazx/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/naazx/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naazx/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/naazx/leetcode/tree/main/0027-remove-element/) | Easy |
@@ -106,4 +108,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/naazx/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/naazx/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
