@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/naazx/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/naazx/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/naazx/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0739-daily-temperatures](https://github.com/naazx/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naazx/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/naazx/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naazx/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/naazx/leetcode/tree/main/0155-min-stack/) | Medium |
+| [0739-daily-temperatures](https://github.com/naazx/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/naazx/leetcode/tree/main/0155-min-stack/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/naazx/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
