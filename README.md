@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/naazx/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0739-daily-temperatures](https://github.com/naazx/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/naazx/leetcode/tree/main/0853-car-fleet/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/naazx/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naazx/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/naazx/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/naazx/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naazx/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/naazx/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/naazx/leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
