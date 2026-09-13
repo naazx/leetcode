@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/naazx/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/naazx/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/naazx/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/naazx/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/naazx/leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naazx/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Math
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/naazx/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/naazx/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naazx/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0567-permutation-in-string](https://github.com/naazx/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/naazx/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/naazx/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/naazx/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/naazx/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/naazx/leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -183,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naazx/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/naazx/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/naazx/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
