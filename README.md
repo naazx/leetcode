@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/naazx/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/naazx/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/naazx/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/naazx/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0217-contains-duplicate](https://github.com/naazx/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/naazx/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/naazx/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/naazx/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/naazx/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/naazx/leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Monotonic Stack
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/naazx/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/naazx/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/naazx/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/naazx/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/naazx/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -266,4 +269,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/naazx/leetcode/tree/main/0278-first-bad-version/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/naazx/leetcode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
