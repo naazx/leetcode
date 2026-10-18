@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/naazx/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/naazx/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/naazx/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/naazx/leetcode/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/naazx/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naazx/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naazx/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/naazx/leetcode/tree/main/0078-subsets/) | Medium |
 | [0268-missing-number](https://github.com/naazx/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/naazx/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Linked List
@@ -392,5 +394,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/naazx/leetcode/tree/main/0078-subsets/) | Medium |
 | [0212-word-search-ii](https://github.com/naazx/leetcode/tree/main/0212-word-search-ii/) | Hard |
 <!---LeetCode Topics End-->
