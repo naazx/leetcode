@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naazx/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/naazx/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/naazx/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/naazx/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/naazx/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/naazx/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/naazx/leetcode/tree/main/0066-plus-one/) | Easy |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/naazx/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/naazx/leetcode/tree/main/0078-subsets/) | Medium |
 | [0212-word-search-ii](https://github.com/naazx/leetcode/tree/main/0212-word-search-ii/) | Hard |
 ## Quicksort
